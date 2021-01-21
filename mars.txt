@@ -1,5 +1,7 @@
 New sentence
-Venus also.
-Mars is a nice planet.
+and an other one here
+Mars is a nice planet
+Venus also..
 Other planets
+pluto aswell
 I want this text to be on GitHub
