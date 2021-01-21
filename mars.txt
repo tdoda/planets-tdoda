@@ -3,3 +3,4 @@ Venus also.
 Mars is a nice planet.
 Other planets
 I want this text to be on GitHub
+I added this line to see how to deal with conflicts.
